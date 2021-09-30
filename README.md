@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qal05
-- 🌱 I’m currently learning C++, (Java, Python <I will learn these after C++>)
+- 🌱 I’m currently learning C++
 - 📫 How to reach me https://www.facebook.com/chan.konne/
 											https://mail.google.com/mail/u/0/#inbox
 
